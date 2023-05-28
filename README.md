@@ -20,6 +20,13 @@ The project contains several Python scripts that work together to collect and an
 
 There is also a Tableau dashboard (Tableau Dashboard.twb) that provides visualizations of the data collected and analyzed by the scripts.
 
+shown below:
+the average choropleth map for average temperature in the US by States
+![Final Project](https://github.com/haochenmiao/GlobalWeatherManager/blob/main/Screenshot%202023-05-27%20at%209.33.54%20PM.png)
+
+the average choropleth map for average temperature in the world by countries
+![Final Project](https://github.com/haochenmiao/GlobalWeatherManager/blob/main/Screenshot%202023-05-27%20at%209.34.43%20PM.png)
+
 ## SQL Usage
 SQL is used extensively throughout the project for data management and analysis. It is primarily used to store the weather data collected by the Python scripts in a structured and easily accessible format. This allows the data to be queried and analyzed efficiently, which is crucial given the large amounts of data that the project deals with.
 
@@ -27,6 +34,7 @@ Additionally, SQL is also used to perform complex data analysis tasks. This incl
 
 ## How to Use
 To use the GlobalWeatherManager project, clone the repository, install the necessary Python packages, and run the Main.py script. The script will guide you through the process of collecting and analyzing weather data.
+
 
 ## Contributions
 Contributions to the GlobalWeatherManager project are welcome. Please fork the project, make your changes, and submit a pull request.
